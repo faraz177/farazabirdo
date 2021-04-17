@@ -2211,8 +2211,8 @@ code {
 }
 
 .cursor {
-    width: 25px;
-    height: 25px;
+    width: 5px;
+    height: 5px;
     border: 1px black;
     background-color: rgb(0, 0, 0);
     opacity: .5;
